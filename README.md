@@ -1,5 +1,5 @@
 # 3DBallz
-A game I am working on. Written in HTML.
+A game I am working on. Written in HTML. The main game site is 3dballz.rf.gd!
 # Changelog
 # 0.1 - The first release of the game, released on 8 July 2024. Move with wasd, jump with space. Place balls with right click, break them with left click. If u fall under the world u respawn.
 Note: falling between 2 balls and creating an elevator from a ball tower when going inside it are not bugs!!!
